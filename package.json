@@ -1,0 +1,25 @@
+{
+  "name": "mis",
+  "version": "1.0.0",
+  "description": "Integrating Airtable with Thames Christian School",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/J1010mes/MIS.git"
+  },
+  "keywords": [
+    "airtable",
+    "database",
+    "sheets",
+    "google"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/J1010mes/MIS/issues"
+  },
+  "homepage": "https://github.com/J1010mes/MIS#readme"
+}
